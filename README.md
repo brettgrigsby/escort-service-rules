@@ -9,7 +9,7 @@ The actions you take to defend the shuttle will often generate heat that must be
 -   Lay out the shuttle and 4 column cards in the center of the table
 -   Shuffle the Scrap Pile and place it face down
 -   Place damage counters in a pile that is easily accessible
--   Each player should choose a Mech
+-   Each player should choose a Character
     -   Grab the Character cards, Starting Deck, and Upgrade Deck for your character
     -   Shuffle your starting deck and place it in front of you as your Draw Pile and place one of your Character cards next to it
     -   Shuffle your Upgrade Deck and place it nearby
@@ -24,6 +24,8 @@ Each character will include 2 Character Cards. One will be placed next to your D
 -   Health
 -   Scrap Slots
 
+When your charachter takes damage, place damage counters on the character card next to your draw pile.
+
 ## Scenario Setup
 
 -   Place enemies on the board according to the scenario
@@ -31,9 +33,9 @@ Each character will include 2 Character Cards. One will be placed next to your D
 
 ## Game Play
 
-Game play will proceed with 1 unit acting at a time. The unit immediately above the shuttle is the active unit. The unit will perform actions until they are done. After the active unit has completed their turn, the unit that is now in the position immediately above the shuttle will become the active unit.
+Game play will proceed with 1 unit acting at a time. The unit immediately above the shuttle is the active unit. The unit will perform actions until they choose to stop. After the active unit has completed their turn, the unit that is now in the position immediately above the shuttle will become the active unit.
 
-If the column above the shuttle is empty, all columns move 1 left. This advancement is called a **TICK**. **TICK**s will continue until a unit is in the column above the shuttle.
+If the column above the shuttle is empty, all columns move 1 left. This advancement is called a **TICK**. **TICK**s will continue until the column above the shuttle contains unit(s).
 
 This game play loop will continue until the scenario resolves or the shuttle is destroyed.
 
@@ -46,6 +48,15 @@ This game play loop will continue until the scenario resolves or the shuttle is 
 
 -   **Elite Enemies**
     -   Turn over the top card for the Elite Enemy's Draw Pile and execute the actions listed on the card
+
+### Choosing Targets
+
+Enemy units will always choose to attack player units first (unless indicated). If there are no player units in range, they will attack the shuttle. If there are multiple targets in range, they will choose the target with the least remaining health.
+
+#### ZEALOT
+
+Enemies marked as **ZEALOT** will attempt to target the shuttle instead of player units if able.
+Importantly, player units with the **TAUNT** status will be targeted by **ZEALOT**s over the shuttle if they are in range.
 
 ## On Your Turn
 
@@ -107,13 +118,17 @@ When a unit is moved by any means, they are always placed at the top of the colu
 
 ## Dealing Damage
 
-When a unit takes damage, place damage counters on the unit equal to the amount of damage taken. If a unit has damage counters equal to or greater than their health, they are destroyed and removed from the board.
+When a unit takes damage, place damage counters on the unit equal to the amount of damage taken. If a unit has damage counters equal to or greater than their health, they are destroyed.
 
-When an enemy unit is destroyed, draw a card from the Scrap Pile and decide as a team which player will receive the Scrap.
+When an enemy unit is destroyed, remove them from the board and draw a card from the Scrap Pile. Decide as a team which player will receive the Scrap. This may involve arguing or rolling some dice. Have fun with it.
+
+When a friendly unit is destroyed, place their character card below the column in which they were destroyed. If they are later healed to a point where their damage is less than their health, they are returned to the top of the column in which they were destroyed.
 
 ## Scenario Completion
 
-When the scenario is complete, the team will receive rewards based on the scenario. The team will also have the opportunity to upgrade their deck with the upgrade cards.
+When the scenario is complete, the team will have the opportunity to upgrade their deck with Upgrade Cards.
+
+After upgrading, the team will move on to the next scenario.
 
 ## Upgrading Your Deck
 
