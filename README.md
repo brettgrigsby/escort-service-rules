@@ -16,6 +16,8 @@ The actions you take to defend the shuttle will often generate **HEAT** that mus
     -   Shuffle your starting deck and place it in front of you as your Draw Pile and place one of your Character cards next to it
     -   Shuffle your Upgrade Deck and place it nearby
     -   Draw 4 cards from your Draw Pile
+    ![player-board](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/426d6a94-a93f-4931-912e-a0c06adddcb3)
+
 -   Proceed to scenario setup when everyone is ready
 
 ## Character Card
@@ -25,19 +27,26 @@ Each character will include 2 Character Cards. One will be placed next to your D
 -   Character Name
 -   Health
 -   Scrap Slots
+![character-card](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/98c713ac-66a3-4122-9530-7f93c589a3ce)
 
-When your charachter takes damage, place damage counters on the character card next to your draw pile.
+
+When your character takes damage, place damage counters on the character card next to your draw pile.
 
 ## Scenario Setup
 
 -   Place enemies on the board according to the scenario
 -   Place player Character cards in a column above the shuttle in any order the team chooses
+![scenario-setup](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/99981704-0718-4f12-aee4-f3585a655a6d)
+
 
 ## Game Play
 
 Game play will proceed with 1 unit acting at a time. The unit immediately above the shuttle is the active unit. The unit will perform actions until they choose to stop. After the active unit has completed their turn, the unit that is now in the position immediately above the shuttle will become the active unit.
 
 If the column above the shuttle is empty, all columns move 1 left. This advancement is called a **TICK**. **TICK**s will continue until the column above the shuttle contains unit(s).
+
+![pre-tick](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/b04a535d-a86f-4fe3-bf60-6ee24724676b)
+![post-tick](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/b8c95449-7ca9-4353-94af-bf897a83a100)
 
 This game play loop will continue until the scenario resolves or the shuttle is destroyed.
 
@@ -53,6 +62,9 @@ This game play loop will continue until the scenario resolves or the shuttle is 
     -   Turn over the top card for the Elite Enemy's Draw Pile and execute the actions listed on the card
 
     Elite enemies have a Draw Pile that is shuffled at the beginning of the scenario. When the Elite Enemy's Draw Pile is empty, shuffle its discard pile to create a new Draw Pile. The back of each card will give the players a clue for what type of action the elite enemy will take.
+
+![elite-enemy](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/40dc02c7-eb5c-49ff-85a1-4dd584d13e87)
+
 
 ### Choosing Targets
 
