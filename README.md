@@ -151,3 +151,25 @@ After upgrading, the team will move on to the next scenario.
 At the end of a scenario, each player will draw 3 cards from their Upgrade Deck and choose up to 2 cards to add to their deck. The remaining card(s) are placed on the bottom of the Upgrade Deck.
 
 If a player chooses to add 0 cards to their deck, they may instead remove 1 card from their deck. Player decks must always contain at least 10 cards.
+
+## Example Player Turn
+
+1. Warrior is immediately above the Shuttle and becomes the active unit
+![example-turn-1](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/f38d9d47-2bec-424d-90e5-077b41b7b738)
+2. Warrior plays STUN and executes the first action: 1 MELEE to the Bruiser
+![example-2](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/6096552f-1474-4f11-8e37-e32177038fb5)
+3. Then executes the second action: 1 DELAY to the Bruiser
+![example-3](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/0632d7e9-9cf7-4a75-8024-328a205451a7)
+4. Finally, the last action on the card generates 1 HEAT. The Warrior moves 1 column right to vent the HEAT.
+![example-4](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/c05e5e34-1991-4ae9-8065-aed22459732a)
+5. For their next card, the Warrior plays GOT YOUR ATTENTION and the first action deals 2 MELEE to the Bruiser
+![example-5](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/5b7d9021-2f9d-4405-b91c-335cb5e3c018)
+6. The second action generates 2 HEAT which the Warrior vents by moving right 2 columns
+![example-6](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/8d73d6ff-ed7e-4e9c-a64f-775bd3bd43c0)
+7. The last action on the card applies the Status of TAUNT to the Warrior, so the card is placed under the Warrior to indicate this status.
+![example-7](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/b4e1dc3f-ca2d-4a54-9f9f-e9dc830b5130)
+8. The Warrior decides to end their turn. They discard the PATCH UP in their hand and keep the CLEAVE
+![example-8](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/fd9feebb-3996-4a0f-939b-3553c44ec020)
+9. The Warrior draws back up to 4 cards in hand, and their turn is over.
+![example-9](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/780bfe13-0ab5-4c08-9b4a-46d0e2fdce4e)
+
