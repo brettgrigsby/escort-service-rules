@@ -7,6 +7,8 @@ The actions you take to defend the shuttle will often generate **HEAT** that mus
 ## Game Setup
 
 -   Lay out the shuttle and 4 column cards in the center of the table
+![board-setup](https://github.com/brettgrigsby/escort-service-rules/assets/8657755/95ccc65d-9ca0-4a49-b660-8868d6d60ad6)
+
 -   Shuffle the Scrap Pile and place it face down
 -   Place damage counters in a pile that is easily accessible
 -   Each player should choose a Character
