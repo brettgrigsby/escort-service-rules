@@ -99,7 +99,7 @@ Whether playing cards or resolving actions printed on a unit card, actions resol
     -   Targets any unit surrounding the character
     ```
         [ x ] [ x ] [ x ]
-        [ x ] [ u ] [ x ]
+        [ x ] [ c ] [ x ]
         [ x ] [ x ] [ x ]
     ```
 -   **RANGED**: deal damage to a target equal to the number to the right of the ranged icon
@@ -108,7 +108,7 @@ Whether playing cards or resolving actions printed on a unit card, actions resol
     ```
         [ 2 ] [ 3 ] [ 4 ]
         [ 1 ] [ 2 ] [ 3 ]
-        [ u ] [ 1 ] [ 2 ]
+        [ c ] [ 1 ] [ 2 ]
     ```
 -   **HEAL**: remove damage from a target equal to the number to the right of the heal icon. Healing cannot target the shuttle unless noted on the action.
 -   **DELAY**: move the target to the right a number of columns equal to the number to the right of the delay icon
